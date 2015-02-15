@@ -1,0 +1,1 @@
+console.log('JS 2 of Group 1 Loaded', new Date().getTime());
