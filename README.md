@@ -19,5 +19,6 @@ iAJSLoader.init([
 ```
 
 Result:
+
 ![alt tag](https://github.com/redhat-raptor/async-js-loader/blob/master/demo/console.png)
 ![alt tag](https://github.com/redhat-raptor/async-js-loader/blob/master/demo/load_dependencies.png)
